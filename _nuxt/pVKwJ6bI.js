@@ -1,0 +1,1 @@
+import{a5 as i,k as n,S as r}from"./BtGFOET9.js";const u=i(e=>{const a=n("token");if(a.value&&(e==null?void 0:e.name)==="login")return r("/profile");if(a.value&&(e==null?void 0:e.name)==="register")return r("/profile")});export{u as default};
